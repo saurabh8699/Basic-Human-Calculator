@@ -14,6 +14,9 @@ They are the following -
     2. Subtraction
     3. Multiplication
     4. Division
+    5. Modulo
+
+Modulo function will also be included in this project. We will work on this feature later in the future.
 
 # TechStacks Used - 
 
